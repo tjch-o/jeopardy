@@ -42,7 +42,7 @@ function App() {
   };
 
   async function getQuestion() {
-    const endpoint = "http://jservice.io/api/random";
+    const endpoint = "https://jservice.io/api/random";
     try {
       const response = await fetch(endpoint);
       if (!response.ok) {

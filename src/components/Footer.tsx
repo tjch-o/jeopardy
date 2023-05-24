@@ -2,7 +2,7 @@ function Footer() {
   return (
     <p className="footer">
       {" "}
-      data was provided by <a href="http://jservice.io/"> jService API </a>{" "}
+      data was provided by <a href="https://jservice.io/"> jService API </a>{" "}
     </p>
   );
 }
