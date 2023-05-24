@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Jeopardy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project was inspired by the classic game Jeopardy! and it is meant for users to conduct quick games with friends or in the classroom. A live demo of the project can be found [here](https://dapper-queijadas-7fd45e.netlify.app).
 
 ## Available Scripts
 
